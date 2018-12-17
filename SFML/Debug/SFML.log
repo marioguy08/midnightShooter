@@ -1,0 +1,5 @@
+﻿  Bullet.cpp
+c:\users\leonb\onedrive\documents\visual studio 2015\projects\sfml\sfml\bullet.cpp(28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\leonb\onedrive\documents\visual studio 2015\projects\sfml\sfml\bullet.cpp(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SFML.vcxproj -> C:\Users\leonb\OneDrive\Documents\Visual Studio 2015\Projects\SFML\Debug\SFML.exe
+  SFML.vcxproj -> C:\Users\leonb\OneDrive\Documents\Visual Studio 2015\Projects\SFML\Debug\SFML.pdb (Full PDB)
